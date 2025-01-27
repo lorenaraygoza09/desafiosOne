@@ -17,4 +17,4 @@
   <li>JavaScript</li>
 </ul>
 
-<p>Si tienes alguna duda o sugerencia, no dudes en contactarme a través de mi <a href="https://www.linkedin.com/in/lorena-raygoza09" target="_blank">Linkedin</a></p>
+<p>Si tienes alguna duda o sugerencia, no dudes en contactarme a través de mi <a href="https://www.linkedin.com/in/lorena-raygoza09" target="_blank">Linkedin.</a></p>
